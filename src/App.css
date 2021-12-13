@@ -114,6 +114,7 @@ nav ul li {
   padding: 0.625rem 0.75rem 0.75rem 0.75rem;
   color: var(--primary-white);
   margin-top: 2rem;
+  text-decoration: none;
 }
 
 .btn-main-offer:hover {
@@ -132,7 +133,7 @@ nav ul li {
 }
 
 @media (max-width: 768px) {
-  .particles-canvas {
+  .tsparticles-canvas-el {
     display: none;
   }
 }
