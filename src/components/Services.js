@@ -10,7 +10,7 @@ function Services() {
       <div className="container">
         <div className="row">
           {/* Col 1 */}
-          <div className="col-md-3 col-sm-6">
+          <div className="col-lg-3 col-md-6 col-sm-6">
             <div className="box">
               <div className="circle">
                 <FontAwesomeIcon className="icon" icon={faDesktop} size="2x" />
@@ -23,7 +23,7 @@ function Services() {
             </div>
           </div>
           {/* Col 2 */}
-          <div className="col-md-3 col-sm-6">
+          <div className="col-lg-3 col-md-6 col-sm-6">
             <div className="box">
               <div className="circle">
                 <FontAwesomeIcon className="icon" icon={faFileCode} size="2x" />
@@ -36,7 +36,7 @@ function Services() {
             </div>
           </div>
           {/* Col 3 */}
-          <div className="col-md-3 col-sm-6">
+          <div className="col-lg-3 col-md-6 col-sm-6">
             <div className="box">
               <div className="circle">
                 <FontAwesomeIcon
@@ -45,7 +45,7 @@ function Services() {
                   size="2x"
                 />
               </div>
-              <h3>Facebook and SSM</h3>
+              <h3>Facebook / SSM</h3>
               <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                 eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -53,7 +53,7 @@ function Services() {
             </div>
           </div>
           {/* Col 4 */}
-          <div className="col-md-3 col-sm-6">
+          <div className="col-lg-3 col-md-6 col-sm-6">
             <div className="box">
               <div className="circle">
                 <FontAwesomeIcon className="icon" icon={faGoogle} size="2x" />
