@@ -10,6 +10,7 @@
   --primary-red: #ef4035;
   --primary-hover-red: #f33501;
   --primary-black: #000;
+  --primary-transparent-black: rgba(0, 0, 0, 0.7);
 }
 
 body {
@@ -318,7 +319,7 @@ nav ul li {
 }
 
 .portfolio-wrapper h1 {
-  background: var(--primary-orange);
+  color: var(--primary-orange);
 }
 
 .image-box-wrapper {
@@ -411,4 +412,61 @@ nav ul li {
   .portfolio-image-popupbox {
     width: 30%;
   }
+}
+
+/************************ TESTIMONIALS ************************/
+.testimonials {
+  background-image: url(testimonials-bg.jpg);
+  background-size: cover;
+  background-color: var(--primary-black);
+  text-align: center;
+  padding-bottom: 0;
+  width: 100%;
+}
+
+.testimonials h1 {
+  color: var(--primary-orange);
+  padding: 3rem 0;
+  text-transform: uppercase;
+}
+
+.testimonials-content {
+  text-align: center;
+  max-width: 53.125rem;
+  margin: 0 auto 2rem auto;
+  background: var(--primary-transparent-black);
+}
+
+.myCarousel {
+  color: var(--primary-white);
+  background: transparent;
+  margin: -6% auto 0 auto;
+  height: 17.875rem;
+  width: 54%;
+  padding: 6% 5% 8% 5%;
+}
+
+.myCarousel h3 {
+  color: var(--primary-orange);
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.myCarousel p {
+  color: var(primary-grey);
+}
+
+.carousel .slide img {
+  width: 10rem !important;
+  border-radius: 50%;
+}
+
+.carousel .slide {
+  background: transparent !important;
+  height: 100% !important;
+  padding-top: 2rem;
+}
+
+.carousel-root {
+  margin: 3% auto auto auto !important;
 }
