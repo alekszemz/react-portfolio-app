@@ -11,10 +11,10 @@ const Contacts = () => {
     formState: { errors },
   } = useForm();
 
-  // All this must to be in config.js file
-  const YOUR_SERVICE_ID = "service_d9g4ndd";
-  const YOUR_TEMPLATE_ID = "template_rp97jox";
-  const YOUR_USER_ID = "user_l83BZPjCtbFScRctGX5u7";
+  // All this must to be in config.js file and you need fill in your data from emailjs-com (serviceID, templateID, userID)
+  const YOUR_SERVICE_ID = "";
+  const YOUR_TEMPLATE_ID = "";
+  const YOUR_USER_ID = "";
 
   const onSubmit = (data, r) => {
     sendEmail(
