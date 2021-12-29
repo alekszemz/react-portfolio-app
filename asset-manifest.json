@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-app/static/css/main.31048955.chunk.css",
+    "main.js": "/react-portfolio-app/static/js/main.ffc961a9.chunk.js",
+    "main.js.map": "/react-portfolio-app/static/js/main.ffc961a9.chunk.js.map",
+    "runtime-main.js": "/react-portfolio-app/static/js/runtime-main.8b4f5fbe.js",
+    "runtime-main.js.map": "/react-portfolio-app/static/js/runtime-main.8b4f5fbe.js.map",
+    "static/css/2.d703c6cb.chunk.css": "/react-portfolio-app/static/css/2.d703c6cb.chunk.css",
+    "static/js/2.2ccf1464.chunk.js": "/react-portfolio-app/static/js/2.2ccf1464.chunk.js",
+    "static/js/2.2ccf1464.chunk.js.map": "/react-portfolio-app/static/js/2.2ccf1464.chunk.js.map",
+    "static/js/3.e8d42b52.chunk.js": "/react-portfolio-app/static/js/3.e8d42b52.chunk.js",
+    "static/js/3.e8d42b52.chunk.js.map": "/react-portfolio-app/static/js/3.e8d42b52.chunk.js.map",
+    "index.html": "/react-portfolio-app/index.html",
+    "static/css/2.d703c6cb.chunk.css.map": "/react-portfolio-app/static/css/2.d703c6cb.chunk.css.map",
+    "static/css/main.31048955.chunk.css.map": "/react-portfolio-app/static/css/main.31048955.chunk.css.map",
+    "static/js/2.2ccf1464.chunk.js.LICENSE.txt": "/react-portfolio-app/static/js/2.2ccf1464.chunk.js.LICENSE.txt",
+    "static/media/avatar-1.9277ecea.png": "/react-portfolio-app/static/media/avatar-1.9277ecea.png",
+    "static/media/avatar-2.75d8f23e.png": "/react-portfolio-app/static/media/avatar-2.75d8f23e.png",
+    "static/media/avatar-3.d6c9b46f.png": "/react-portfolio-app/static/media/avatar-3.d6c9b46f.png",
+    "static/media/avatar-4.f7fb7ed7.png": "/react-portfolio-app/static/media/avatar-4.f7fb7ed7.png",
+    "static/media/city-guide-app.e4843bd0.png": "/react-portfolio-app/static/media/city-guide-app.e4843bd0.png",
+    "static/media/me.daa0bb34.jpg": "/react-portfolio-app/static/media/me.daa0bb34.jpg",
+    "static/media/netflix.5a78c4b9.png": "/react-portfolio-app/static/media/netflix.5a78c4b9.png",
+    "static/media/portfolio.e4d369bc.png": "/react-portfolio-app/static/media/portfolio.e4d369bc.png",
+    "static/media/task-manager.7cdcc29e.png": "/react-portfolio-app/static/media/task-manager.7cdcc29e.png",
+    "static/media/App.css": "/react-portfolio-app/static/media/wall-and-laptop-background.f9e274f4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b4f5fbe.js",
+    "static/css/2.d703c6cb.chunk.css",
+    "static/js/2.2ccf1464.chunk.js",
+    "static/css/main.31048955.chunk.css",
+    "static/js/main.ffc961a9.chunk.js"
+  ]
+}
