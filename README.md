@@ -1,4 +1,4 @@
-#ReactJS,
+#ReactJS
 <br/>
 #Bootstrap
 <br/>
