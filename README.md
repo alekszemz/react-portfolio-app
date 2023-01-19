@@ -3,7 +3,9 @@
 <br/>
 #Bootstrap
 
-Portfolio app with contact form, created and deployed using CSS, React Js, Bootstrap 4, NPM, Git, GitHub pages and more. The project includes particles, popup boxes, an auto carousel, a functional contact form and social share buttons. To start the contact form working, you need to register on emailjs website and paste your details in the Contact.js component. This project was created through learning Andrey Dovganyuk "Build Portfolio App | With ReactJS & Bootstrap" course on Udemy. You can see the project live here: https://alekszemz.github.io/react-portfolio-app.
+<p>Discover the ultimate <strong>portfolio app</strong> built with <strong>ReactJS, Bootstrap</strong>, and other cutting-edge technologies. This fully-featured app is designed to showcase your work and make it easy for potential employers or clients to contact you.</p>
+<p>Built using <strong>CSS, ReactJS, Bootstrap 4, NPM, Git, and GitHub pages</strong>, this portfolio app is designed to be both visually stunning and highly functional. Features include <strong>particles, popup boxes, an auto-carousel, a functional contact form, and social share buttons.</p>
+<p>To get the contact form working, simply <strong>register on the emailjs website and paste your details into the Contact.js component</strong>. This project is open-source and hosted on <strong>GitHub</strong>, you can see the code and make contributions to it. This project was created by learning Andrey Dovganyuk's course "Build Portfolio App | With ReactJS & Bootstrap" on Udemy. Check out the live version of the project at https://alekszemz.github.io/react-portfolio-app.</p>
 
 # Getting Started with Create React App
 
